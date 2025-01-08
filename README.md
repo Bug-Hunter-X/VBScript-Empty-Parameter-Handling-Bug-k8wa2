@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript when handling empty function parameters.  The `MyFunction` initially lacks explicit handling for empty parameters which can cause unexpected issues such as runtime errors or incorrect results. The solution demonstrates the proper way to check for and handle empty parameters using the `IsEmpty` function.
